@@ -1,2 +1,2 @@
 # Web-Page
-Static Web Page with MVC pattern
+Application of MVC pattern for a free web page template.
